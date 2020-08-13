@@ -1,0 +1,9 @@
+img {
+  height: 500px;
+  width: 375px;
+}
+
+
+#output-dog, #output-lion, #output-cat {
+  display: none;
+}
